@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -pthread
-MAIN_SRC = MAIN.c
+MAIN_SRC = main.c
 MAIN_EXE = main
 
 .PHONY: all clean fclean re
