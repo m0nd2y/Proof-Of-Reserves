@@ -1,4 +1,3 @@
----
 # Proof Of Reservers
 
 ### Hand Shake by Server
